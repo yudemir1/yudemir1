@@ -31,4 +31,3 @@
 ## 📫 Get In Touch
 
 *   **Email:** yusufdemir5484@gmail.com
-*   **(Optional):** Add LinkedIn profile link here
